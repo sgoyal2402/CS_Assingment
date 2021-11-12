@@ -1,0 +1,115 @@
+*****Output for n = 8*****
+suryansh@suryansh-Inspiron-5570:~/Documents/codes/CS_Assingment$ ./a.out 8
+Waiting for child Process!
+Child Process Started
+8
+Waiting for child Process!
+Child Process Started
+4
+Waiting for child Process!
+Child Process Started
+2
+Waiting for child Process!
+Child Process Started
+1
+Child process of 1 completed
+ Parent process completed
+Child process of 2 completed
+ Parent process completed
+Child process of 4 completed
+ Parent process completed
+Child process of 8 completed
+ Parent process completed
+
+*****Output for n=15*****
+suryansh@suryansh-Inspiron-5570:~/Documents/codes/CS_Assingment/Collatz_Conjecture$ ./a.out 15
+Waiting for child Process!
+Child Process Started
+15
+Waiting for child Process!
+Child Process Started
+46
+Waiting for child Process!
+Child Process Started
+23
+Waiting for child Process!
+Child Process Started
+70
+Waiting for child Process!
+Child Process Started
+35
+Waiting for child Process!
+Child Process Started
+106
+Waiting for child Process!
+Child Process Started
+53
+Waiting for child Process!
+Child Process Started
+160
+Waiting for child Process!
+Child Process Started
+80
+Waiting for child Process!
+Child Process Started
+40
+Waiting for child Process!
+Child Process Started
+20
+Waiting for child Process!
+Child Process Started
+10
+Waiting for child Process!
+Child Process Started
+5
+Waiting for child Process!
+Child Process Started
+16
+Waiting for child Process!
+Child Process Started
+8
+Waiting for child Process!
+Child Process Started
+4
+Waiting for child Process!
+Child Process Started
+2
+Waiting for child Process!
+Child Process Started
+1
+Child process of 1 completed
+ Parent process completed
+Child process of 2 completed
+ Parent process completed
+Child process of 4 completed
+ Parent process completed
+Child process of 8 completed
+ Parent process completed
+Child process of 16 completed
+ Parent process completed
+Child process of 5 completed
+ Parent process completed
+Child process of 10 completed
+ Parent process completed
+Child process of 20 completed
+ Parent process completed
+Child process of 40 completed
+ Parent process completed
+Child process of 80 completed
+ Parent process completed
+Child process of 160 completed
+ Parent process completed
+Child process of 53 completed
+ Parent process completed
+Child process of 106 completed
+ Parent process completed
+Child process of 35 completed
+ Parent process completed
+Child process of 70 completed
+ Parent process completed
+Child process of 23 completed
+ Parent process completed
+Child process of 46 completed
+ Parent process completed
+Child process of 15 completed
+ Parent process completed
